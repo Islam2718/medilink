@@ -1,0 +1,12 @@
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\bin\Debug\net9.0\Shared.Services.deps.json
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\bin\Debug\net9.0\Shared.Services.dll
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\bin\Debug\net9.0\Shared.Services.pdb
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.AssemblyReference.cache
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\obj\Debug\net9.0\Shared.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfoInputs.cache
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\obj\Debug\net9.0\Shared.Services.AssemblyInfo.cs
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\obj\Debug\net9.0\Shared.Services.csproj.CoreCompileInputs.cache
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\obj\Debug\net9.0\Shared.Services.dll
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\obj\Debug\net9.0\refint\Shared.Services.dll
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\obj\Debug\net9.0\Shared.Services.pdb
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Services\obj\Debug\net9.0\ref\Shared.Services.dll
