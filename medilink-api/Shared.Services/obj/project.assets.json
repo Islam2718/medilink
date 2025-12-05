@@ -322,6 +322,20 @@
             "related": ".xml"
           }
         }
+      },
+      "Shared.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Shared.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.Models.dll": {}
+        }
       }
     }
   },
@@ -837,12 +851,18 @@
         "system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512",
         "system.identitymodel.tokens.jwt.nuspec"
       ]
+    },
+    "Shared.Models/1.0.0": {
+      "type": "project",
+      "path": "../Shared.Models/Shared.Models.csproj",
+      "msbuildProject": "../Shared.Models/Shared.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.0",
+      "Shared.Models >= 1.0.0",
       "System.IdentityModel.Tokens.Jwt >= 8.0.1"
     ]
   },
@@ -877,7 +897,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj": {
+              "projectPath": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

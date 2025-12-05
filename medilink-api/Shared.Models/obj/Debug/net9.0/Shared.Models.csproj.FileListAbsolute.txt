@@ -6,6 +6,7 @@ D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Models\obj\De
 D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfoInputs.cache
 D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Models\obj\Debug\net9.0\Shared.Models.AssemblyInfo.cs
 D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Models\obj\Debug\net9.0\Shared.Models.csproj.CoreCompileInputs.cache
+D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Models\obj\Debug\net9.0\Shared.Models.sourcelink.json
 D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Models\obj\Debug\net9.0\Shared.Models.dll
 D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Models\obj\Debug\net9.0\refint\Shared.Models.dll
 D:\Office____PhicsArt\0022___Medilink\medilink\medilink-api\Shared.Models\obj\Debug\net9.0\Shared.Models.pdb
