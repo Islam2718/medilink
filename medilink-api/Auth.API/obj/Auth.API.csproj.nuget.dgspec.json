@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Auth.API\\Auth.API.csproj": {}
+    "E:\\medilink\\medilink-api\\Auth.API\\Auth.API.csproj": {}
   },
   "projects": {
-    "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Auth.API\\Auth.API.csproj": {
+    "E:\\medilink\\medilink-api\\Auth.API\\Auth.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Auth.API\\Auth.API.csproj",
+        "projectUniqueName": "E:\\medilink\\medilink-api\\Auth.API\\Auth.API.csproj",
         "projectName": "Auth.API",
-        "projectPath": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Auth.API\\Auth.API.csproj",
-        "packagesPath": "C:\\Users\\misla\\.nuget\\packages\\",
-        "outputPath": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Auth.API\\obj\\",
+        "projectPath": "E:\\medilink\\medilink-api\\Auth.API\\Auth.API.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "E:\\medilink\\medilink-api\\Auth.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\misla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj": {
-                "projectPath": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj"
+              "E:\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj": {
+                "projectPath": "E:\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj"
               },
-              "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Services\\Shared.Services.csproj": {
-                "projectPath": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Services\\Shared.Services.csproj"
+              "E:\\medilink\\medilink-api\\Shared.Services\\Shared.Services.csproj": {
+                "projectPath": "E:\\medilink\\medilink-api\\Shared.Services\\Shared.Services.csproj"
               }
             }
           }
@@ -105,24 +106,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj": {
+    "E:\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj",
+        "projectUniqueName": "E:\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj",
         "projectName": "Shared.Models",
-        "projectPath": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj",
-        "packagesPath": "C:\\Users\\misla\\.nuget\\packages\\",
-        "outputPath": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Models\\obj\\",
+        "projectPath": "E:\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "E:\\medilink\\medilink-api\\Shared.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\misla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -131,6 +132,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -180,24 +182,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Services\\Shared.Services.csproj": {
+    "E:\\medilink\\medilink-api\\Shared.Services\\Shared.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Services\\Shared.Services.csproj",
+        "projectUniqueName": "E:\\medilink\\medilink-api\\Shared.Services\\Shared.Services.csproj",
         "projectName": "Shared.Services",
-        "projectPath": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Services\\Shared.Services.csproj",
-        "packagesPath": "C:\\Users\\misla\\.nuget\\packages\\",
-        "outputPath": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Services\\obj\\",
+        "projectPath": "E:\\medilink\\medilink-api\\Shared.Services\\Shared.Services.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "E:\\medilink\\medilink-api\\Shared.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\misla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -206,14 +208,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj": {
-                "projectPath": "D:\\Office____PhicsArt\\0022___Medilink\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj"
+              "E:\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj": {
+                "projectPath": "E:\\medilink\\medilink-api\\Shared.Models\\Shared.Models.csproj"
               }
             }
           }
@@ -263,7 +266,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
